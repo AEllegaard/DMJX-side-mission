@@ -1,0 +1,227 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #545654;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu;
+    color: white;
+    height: 100%;
+    overflow: hidden;
+}
+
+/*-------------------  Header  --------------------------*/
+header{
+    background-color: #474747;
+    display: flex;
+    padding: 10px;
+    width: 100%;
+}
+
+.applelogo{
+    height: 20px;
+}
+
+.findertop{
+   width: 50%;
+   display: flex;
+}
+
+.findertop > ul{
+    list-style: none;
+    display: flex;
+}
+
+.findertop > ul li {
+    margin: 0px 10px;
+}
+
+.findertop > p{
+    filter: drop-shadow(30px 10px 4px black);
+}
+
+#date-container{
+    width: 47%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+/*-------------------  Main  --------------------------*/
+
+main{
+    position: absolute;
+    height: 100%;
+}
+
+main> img{
+    width: 100px;
+}
+
+.img1{
+    position: relative;
+    top: 600px;
+    left:92%;
+}
+
+.img2{
+    position: relative;
+    top: 750px;
+    left:85%;
+}
+
+.img3{
+    position: relative;
+    top: 300px;
+    left:35%;
+}
+
+.img4{
+    position: relative;
+    top:550px;
+    left:-5%;
+}
+
+.img5{
+    position: relative;
+    top: 350px;
+}
+
+.img6{
+    position: relative;
+    top: 465px;
+    left: 59%;
+}
+
+.img7{
+    position: relative;
+    top: 565px;
+    left: -5%;
+}
+
+.img8{
+    position: relative;
+    top: 350px;
+    left: 30%;
+}
+
+.img9{
+    position: relative;
+    top: 580px;
+    left: 25%;
+}
+
+.img10{
+    position: relative;
+    top: 360px;
+    left: 32%;
+}
+
+.img11{
+    position: relative;
+    top: 365px;
+    left: 18%;
+}
+
+.img12{
+    position: relative;
+    top: 100px;
+    left: 20%;
+}
+
+.img13{
+    position: relative;
+    top: 550px;
+    left: -55%;
+}
+
+.img14{
+    position: relative;
+    top: 350px;
+    left: -10%;
+}
+
+.img15{
+    position: relative;
+    top: 0px;
+    left: -9%;
+}
+
+.img16{
+    position: relative;
+    top: -130px;
+    left: 75%;
+}
+
+.img17{
+    position: relative;
+    top: 600px;
+    left: 18%;
+}
+
+.img18{
+    position: relative;
+    top: -120px;
+    left: 79%;
+}
+
+.img19{
+    position: relative;
+    top: 590px;
+    left: -10%;
+}
+
+.img20{
+    position: relative;
+    top: 600px;
+    left: 14%;
+}
+
+.img21{
+    position: relative;
+    top: 0px;
+    left: 50%;
+}
+
+.img22{
+    position: relative;
+    top: 600px;
+    left: -8%;
+}
+
+.img23{
+    position: relative;
+    top: -120px;
+    left: -10%;
+}
+
+.img24{
+    position: relative;
+    top: 350px;
+    left: 20%;
+}
+
+.img25{
+    position: relative;
+    top: 600px;
+    left: -43%;
+}
+
+.img26{
+    position: relative;
+    top: 230px;
+    left: -50%;
+}
+
+.img27{
+    position: relative;
+    top: 500px;
+    left: 0%;
+}
+
+.img28{
+    position: relative;
+    top: -100px;
+    left: -15%;
+}
